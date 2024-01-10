@@ -11,7 +11,7 @@ public class addClass {
 
 	/**
 	 * <h1>This method takes input as arguments and returns the sum</h1>
-	 * <p> gbuehiw </p>
+	 * 
 	 * @param x - accepts an integer value
 	 * @param y - accepts an integer value
 	 * @return - returns the sum of the two numbers as an integer
