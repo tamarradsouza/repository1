@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"git","c":"addClass","l":"add(int, int)","u":"add(int,int)"},{"p":"git","c":"addClass","l":"addClass()","u":"%3Cinit%3E()"}];updateSearchResults();
